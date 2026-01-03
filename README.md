@@ -272,35 +272,6 @@ npm test
 - Database monitoring: PostgreSQL log analysis
 - Performance metrics: Built-in Flask monitoring
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Use ESLint configuration for JavaScript
-- Write unit tests for new features
-- Update documentation as needed
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Maritime data providers and AIS networks
@@ -308,4 +279,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Flask and React communities
 - Docker containerization platform
 
-*Built with ❤️ for the maritime community*
