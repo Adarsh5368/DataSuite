@@ -139,25 +139,6 @@ npm run dev
 Create a `.env` file in the `backend/` directory:
 
 ```env
-# Database Configuration
-DATABASE_URL=postgresql://postgres:1234@localhost:5432/aisdb
-POSTGRES_DB=aisdb
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=1234
-
-# Flask Configuration
-FLASK_ENV=development
-SECRET_KEY=your-secret-key-here
-JWT_SECRET_KEY=your-jwt-secret-key
-
-# API Configuration
-API_HOST=0.0.0.0
-API_PORT=5000
-
-# External APIs (if applicable)
-AIS_API_KEY=your-ais-api-key
-WEATHER_API_KEY=your-weather-api-key
-```
 
 ### Database Setup
 
